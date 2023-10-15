@@ -1,10 +1,10 @@
-# Snake_Game
+# 🐍 Snake_Game 🐍
 
 A simple Snake game implemented in Java using Swing.
 
 ## About
 
-This repository contains a simple implementation of the classic Snake game using Java and Swing. The game allows you to control a snake that moves around the game board, eating food and growing longer. The objective is to achieve the highest score by eating as much apples as possible without colliding with the the snake's own body.
+This repository contains a simple implementation of the classic Snake game using Java and Swing. The game allows you to control a snake that moves around the game board, eating apples 🍎 and growing longer. The objective is to achieve the highest score by eating as much apples 🍎 as possible without colliding with the the snake's own body.
 
 
 
